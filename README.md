@@ -1,3 +1,2 @@
-# 100-DaysOfCoding
-Coding OP
-<img height=400 width=900 src="https://github.com/AkankshaGaonkar/100-DaysOfCoding/blob/main/download.png">
+# Coding OP
+<img height=100 width=200 src="https://github.com/AkankshaGaonkar/100-DaysOfCoding/blob/main/download.png">
